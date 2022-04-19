@@ -10,7 +10,7 @@ namespace IdentityServer.Controllers
         [HttpGet("openid-configuration")]
         public IActionResult GetOpenidConfiguration()
         {
-            return Redirect("https://localhost:5001/.well-known/openid-configuration");
+            return Redirect("https://localhost:5443/.well-known/openid-configuration");
         }
     }
 }

@@ -7,11 +7,11 @@ namespace IdentityServer.Controllers
     [ApiController]
     public class UsersController : ControllerBase
     {
-        [HttpGet("GetStrings")]
-        public IActionResult GetStrings()
+        [HttpGet("GetUsers")]
+        public IActionResult GetUsers()
         {
-            List<string> result = new List<string> { "1","2","3"};
-            return Ok(result);
+            var users = TestUsers.Users;
+            return Ok(users);
         }
     }
 }

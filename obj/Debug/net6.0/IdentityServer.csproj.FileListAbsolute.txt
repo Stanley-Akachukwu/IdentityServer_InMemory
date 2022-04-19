@@ -49,3 +49,4 @@ C:\Projects\LocalAuthentications\IdentityServer\obj\Debug\net6.0\IdentityServer.
 C:\Projects\LocalAuthentications\IdentityServer\obj\Debug\net6.0\ref\IdentityServer.dll
 C:\Projects\LocalAuthentications\IdentityServer\obj\Debug\net6.0\IdentityServer.pdb
 C:\Projects\LocalAuthentications\IdentityServer\obj\Debug\net6.0\IdentityServer.genruntimeconfig.cache
+C:\Projects\LocalAuthentications\IdentityServer\obj\Debug\net6.0\IdentityServer.csproj.AssemblyReference.cache
